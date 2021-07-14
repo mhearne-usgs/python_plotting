@@ -86,6 +86,7 @@ package_list=(
       "matplotlib"
 	  "numpy"
       "cartopy"
+      "pandas"
 )
 
 # Create a conda virtual environment
