@@ -5,7 +5,11 @@ Please use Binder via the link below to launch this tutorial in your web browser
 
 https://mybinder.org/v2/gh/mhearne-usgs/python_plotting.git/main?filepath=python_plotting_introduction.ipynb
 
-If you prefer to run the notebook locally, clone the repository and run the following commands:
+If you prefer to run the notebook locally, clone the repository:
+
+`git clone git@github.com:mhearne-usgs/python_plotting.git`
+
+ and run the following commands in the top level of the repository:
 
 - `bash install.sh`
 - `conda activate plotting_tutorial`
@@ -19,7 +23,7 @@ If you prefer to run the notebook locally, clone the repository and run the foll
 ## The topics covered include:
 - Anatomy of a Matplotlib plot
 - Introduction to Pandas for reading in data
-- Plot histrograms
+- Plot histograms
 - Plot error bars and continuous error bars
 - Plot data as an image
 - ColorMaps
